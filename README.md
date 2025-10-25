@@ -22,8 +22,8 @@ Software Engineer & UI/UX Designer | Final-Year BS Student at Arid University | 
 - **Other**: AI/ML (TensorFlow), UI/UX Design, Cloud (AWS/Firebase).
 
 ## 📈 GitHub Stats
-![Muzamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
+![Muzamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzamal478&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzamal478&layout=compact&theme=radical)
 
 (Replace 'yourgithubusername' with yours. Use green theme if possible via &theme=chartreuse-dark)
 
